@@ -7,7 +7,7 @@ part of 'http_text_provider.dart';
 // **************************************************************************
 
 String _$httpTextControllerHash() =>
-    r'9a9f9a5044c61f5b513870dce6982ecbee9f1cab';
+    r'd23cae46ddeb3ba8e58a86ac6c78fd273847ea41';
 
 /// See also [httpTextController].
 @ProviderFor(httpTextController)
